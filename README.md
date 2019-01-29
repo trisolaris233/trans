@@ -17,8 +17,10 @@ then it will create a folder with some files where the configuration file and lo
 ~/.trans/config.json
 ~/.trans/trans.log
 ```
+
 in `config.json`, put your appkey and secret key into and save it.
 Now everything is OK, you can use it.
+
 ---
 ### How to use
 Here are the most simple examples for it.
